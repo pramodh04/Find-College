@@ -1,0 +1,1 @@
+A simple aplication to find colleges
